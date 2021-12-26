@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    background-image: url(https://t4.ftcdn.net/jpg/04/31/44/89/360_F_431448941_oo9a7gWADWwWjyYBDmdcYvuIZdss3sxh.jpg);
+}
+.content{
+    width: 50vw;
+    background-color: #fff;
+    padding: 2vh;
+}
+#log{
+    text-decoration: none;
+    color: black;
+}
+#eleven{
+    text-decoration: none;
+    color: white;
+}
